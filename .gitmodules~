@@ -1,0 +1,3 @@
+[submodule "m-epics-dataacquisition"]
+	path = m-epics-dataacquisition
+	url = https://bitbucket.org/europeanspallationsource/m-epics-dataacquisition

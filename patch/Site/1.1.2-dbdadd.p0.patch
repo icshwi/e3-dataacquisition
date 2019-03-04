@@ -1,0 +1,10 @@
+diff --git src/dataacquisition.dbd src/dataacquisition.dbd
+new file mode 100644
+index 0000000..6fe9d19
+--- /dev/null
++++ src/dataacquisition.dbd
+@@ -0,0 +1,4 @@
++function(signalFunction)
++function(signalFunctionCursorAuto)
++function(cursorFunction)
++
